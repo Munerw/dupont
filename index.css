@@ -1,0 +1,25 @@
+#banniere{
+  
+}
+
+#menu{
+  background: #857dcc;
+}
+
+#corps{
+  display: flex;
+  flex-direction: row; 
+  flew-wrap:  wrap;
+}
+
+.content{
+  
+}
+
+.class{
+  
+}
+
+#renseignement{
+  
+}
