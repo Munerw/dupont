@@ -39,3 +39,7 @@ header :nth-child(2){
 #renseignement{
   
 }
+
+header li{
+  list-style-type:none;
+}
