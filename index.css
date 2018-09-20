@@ -3,10 +3,11 @@ header{
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 
-header :nth-child(2){
-  flex:1;
+#conteneur{
+  align-self:stretch;
 }
 
 #banniere{
