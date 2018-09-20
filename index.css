@@ -34,12 +34,9 @@ header :nth-child(2){
 
 .tab{
   flex:1;
+  list-style-type:none;
 }
 
 #renseignement{
-  
-}
-
-header li{
-  list-style-type:none;
+  background:green;
 }
