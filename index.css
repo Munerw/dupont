@@ -6,10 +6,6 @@ header{
   flex-direction: column;
 }
 
-#conteneur{
-  align-self:stretch;
-}
-
 #banniere{
   
 }
@@ -20,6 +16,7 @@ header{
   flex-direction:row;
   flex-wrap:wrap;
   justify-content:space-between;
+  align-self:stretch;
 }
 
 #corps{
